@@ -1,0 +1,13 @@
+name: land_use_map2
+title: land_use_map
+username: james.duffy@defra.gov.uk
+account: james.duffy@defra.gov.uk
+server: dap-prd2-connect.azure.defra.cloud
+hostUrl: https://dap-prd2-connect.azure.defra.cloud/__api__
+appId: 108
+bundleId: 235
+url: https://dap-prd2-connect.azure.defra.cloud/land_use_map/
+when: 1678270235.3321
+lastSyncTime: 1678270235.33211
+asMultiple: FALSE
+asStatic: FALSE
